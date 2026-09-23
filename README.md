@@ -15,7 +15,8 @@ I build AI-powered applications and automation workflows designed to solve real-
 **Solution:** I built REACH, an AI-powered market development platform that takes a product or service description and helps transform it into an actionable target market.
 
 ### Key Features
-- Analyses a product/service using AI
+
+- Analyses a product or service using AI
 - Identifies customer segments and decision-maker roles
 - Discovers relevant UK organisations
 - Integrates external APIs for company and lead research
@@ -25,11 +26,17 @@ I build AI-powered applications and automation workflows designed to solve real-
 
 **Tech:** Python · Streamlit · OpenAI API · REST APIs · JSON · Supabase/PostgreSQL · Companies House · Hunter
 
-🌐 [Try Live Demo](https://reach-ai-market-development.streamlit.app/)
+🌐 [**Try Live Demo**](https://reach-ai-market-development.streamlit.app/)
 
-🔗 [View Source Code](https://github.com/AmeerahD1/REACH-AI-Market-Development)
+🔗 [**View Source Code**](https://github.com/AmeerahD1/REACH-AI-Market-Development)
 
 > The public portfolio version uses safe demonstration data and disables paid external API calls.
+
+### 📸 REACH in Action
+
+[![REACH AI Market Development Platform](images/Screenshot%202026-09-23%20231652.png)](https://reach-ai-market-development.streamlit.app/)
+
+*Click the image to launch the live REACH demo.*
 
 ---
 
@@ -40,32 +47,40 @@ I build AI-powered applications and automation workflows designed to solve real-
 **Solution:** I built Tutoriffic, an AI learning assistant designed to provide personalised explanations, practice and revision support.
 
 ### Key Features
+
 - Supports text, image and voice-based learning interactions
 - Covers 4 learning categories and 3 tutoring modes
-- Adaptive question difficulty
+- Uses adaptive question difficulty
 - Tracks learner mastery and weaker areas
 - Generates targeted practice questions
 - Uses RAG to ground learning support in relevant material
-- Spaced-repetition revision intervals of 3, 7, 14 and 30 days
+- Uses spaced-repetition revision intervals of 3, 7, 14 and 30 days
 - Maintains learner progress using SQLite
 
 **Tech:** Python · Streamlit · OpenAI API · SQLite · RAG · Multimodal AI
 
-🌐 [Try Live Demo](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+🌐 [**Try Live Demo**](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
-🔗 [View Source Code](https://github.com/AmeerahD1/Tutoriffic-AI-Learning-Assistant)
+🔗 [**View Source Code**](https://github.com/AmeerahD1/Tutoriffic-AI-Learning-Assistant)
 
 > The recruiter demo uses sample AI responses with paid external AI APIs disabled.
+
+### 📸 Tutoriffic in Action
+
+[![Tutoriffic AI Learning Assistant](images/Screenshot%202026-09-23%20232022.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+
+*Click the image to launch the live Tutoriffic demo.*
 
 ---
 
 ## 🧠 RAG AI Assistant
 
-**Problem:** General-purpose AI models may produce answers without access to an organisation's specific documents and knowledge.
+**Problem:** General-purpose AI models may generate answers without access to an organisation's specific documents and internal knowledge.
 
 **Solution:** I developed a Retrieval-Augmented Generation (RAG) assistant that retrieves relevant information from supplied documents before generating an answer.
 
 ### Key Features
+
 - Document ingestion and text chunking
 - Embedding generation
 - Semantic search
@@ -75,7 +90,7 @@ I build AI-powered applications and automation workflows designed to solve real-
 
 **Tech:** Python · LangChain · Chroma · Hugging Face · OpenAI API · Embeddings
 
-🔗 [View My GitHub](https://github.com/AmeerahD1)
+🔗 [**Explore My GitHub**](https://github.com/AmeerahD1)
 
 ---
 
@@ -84,12 +99,13 @@ I build AI-powered applications and automation workflows designed to solve real-
 I am currently developing an **n8n-based lead-generation automation** designed to reduce repetitive manual prospecting and connect multiple stages of the lead-generation process into a structured workflow.
 
 ### Areas Being Developed
+
 - Automated workflow orchestration
 - Lead research and data processing
 - API integrations
 - Structured JSON data
 - AI-assisted processing
-- Reduced repetitive manual work
+- Reduction of repetitive manual work
 
 **Tech:** n8n · APIs · JSON · AI Automation
 
@@ -102,6 +118,7 @@ I am currently developing an **n8n-based lead-generation automation** designed t
 Contributed to improving an AI-powered analytics platform designed to help non-technical users understand and analyse organisational data more easily.
 
 ### My Contribution
+
 - Tested datasets ranging from **510 to 541,000+ records**
 - Worked across **11 functional areas**
 - Helped resolve **10+ AI, data, configuration and UX issues**
@@ -117,10 +134,14 @@ Contributed to improving an AI-powered analytics platform designed to help non-t
 
 ## 🚗 Car Price Prediction Web App
 
-Built an end-to-end machine-learning application that predicts vehicle prices from user-provided vehicle characteristics.
+**Problem:** Vehicle prices depend on multiple characteristics, making manual price estimation difficult and inconsistent.
+
+**Solution:** I built an end-to-end machine-learning application that predicts vehicle prices from user-provided vehicle characteristics.
 
 ### Key Features
-- Data preprocessing and feature engineering
+
+- Data preprocessing
+- Feature engineering
 - Regression modelling
 - Model evaluation
 - Persisted trained model using Joblib
@@ -156,15 +177,20 @@ My projects focus on:
 - Making complex data easier to understand
 - Building practical AI products around real user needs
 - Connecting AI models with APIs, databases and external systems
-- Developing applications from initial problem identification through to deployment
+- Turning ideas into usable applications
+- Taking products from problem identification through development, testing and deployment
 
 ---
 
 # 🎓 About Me
 
-BSc Mathematics with Data Science graduate with experience across AI engineering, data analytics, automation and AI product development.
+I am a **BSc Mathematics with Data Science graduate** with experience across AI engineering, data analytics, automation and AI product development.
 
-I enjoy taking a problem from **idea → requirements → development → testing → deployment**, while considering both the technical implementation and the experience of the person actually using the product.
+I enjoy taking a problem from:
+
+**Idea → Requirements → Development → Testing → Deployment**
+
+while considering both the technical implementation and the experience of the person actually using the product.
 
 ---
 
