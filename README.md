@@ -25,6 +25,8 @@ I build AI-powered applications and automation workflows designed to solve real-
 
 **Tech:** Python · Streamlit · OpenAI API · REST APIs · JSON · Supabase/PostgreSQL · Companies House · Hunter
 
+🌐 [Try Live Demo](https://reach-ai-market-development.streamlit.app/)
+
 🔗 [View Source Code](https://github.com/AmeerahD1/REACH-AI-Market-Development)
 
 > The public portfolio version uses safe demonstration data and disables paid external API calls.
@@ -166,11 +168,13 @@ I enjoy taking a problem from **idea → requirements → development → testin
 
 ---
 
-## 🔗 Explore My Work
+# 🔗 Explore My Work
 
 🌐 **Portfolio:** [ameerahd1.github.io](https://ameerahd1.github.io)
 
 💻 **GitHub:** [github.com/AmeerahD1](https://github.com/AmeerahD1)
+
+🎯 **REACH Live Demo:** [Launch REACH](https://reach-ai-market-development.streamlit.app/)
 
 🎓 **Tutoriffic Live Demo:** [Launch Tutoriffic](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
