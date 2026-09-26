@@ -1,196 +1,256 @@
 # 👋 Ameerah Diwan | AI & Automation Portfolio
 
-**AI Engineering | Automation | Data | Product Development**
+### AI Automation | Workflow Automation | AI Products | Product Development
 
-I build AI-powered applications and automation workflows designed to solve real-world business and user problems. My projects combine AI, APIs, data, automation and user-focused product development to turn manual or complex processes into practical applications.
+I design and build AI-powered products and automated workflows that solve real business and user problems.
+
+My work focuses on identifying repetitive, fragmented or inefficient processes and exploring how AI and automation can make them simpler, faster and more useful — while keeping the user and business need at the centre of the solution.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎯 REACH — AI-Powered Market Development Platform
+## 🎯 REACH — AI-Powered Market Development & Workflow Platform
 
-**Problem:** Finding potential customers, researching organisations and identifying the right decision-makers can involve significant manual research across multiple platforms.
+**The problem:** Business development can involve repetitive research, switching between multiple tools, finding relevant organisations and contacts, preparing outreach and manually keeping track of opportunities.
 
-**Solution:** I built REACH, an AI-powered market development platform that takes a product or service description and helps transform it into an actionable target market.
+**What I built:** REACH brings these activities together into a connected AI-powered market development workflow.
 
-### Key Features
+### What REACH Does
 
-- Analyses a product or service using AI
-- Identifies customer segments and decision-maker roles
-- Discovers relevant UK organisations
-- Integrates external APIs for company and lead research
+- Analyses a product or service to understand the potential market
+- Identifies relevant customer segments
+- Discovers organisations that may be relevant
+- Supports AI-powered organisation research
+- Helps identify relevant decision-makers and contact routes
 - Generates personalised outreach
-- Tracks prospect status and market coverage
-- Stores structured prospect data for continued workflows
+- Supports opportunity tracking and follow-up
+- Stores market and prospect information within a structured workflow
 
-**Tech:** Python · Streamlit · OpenAI API · REST APIs · JSON · Supabase/PostgreSQL · Companies House · Hunter
+**Workflow:**
 
-🌐 [**Try Live Demo**](https://reach-ai-market-development.streamlit.app/)
+`Understand → Discover → Research → Identify → Engage → Track`
 
-🔗 [**View Source Code**](https://github.com/AmeerahD1/REACH-AI-Market-Development)
+**Tools:** AI · Workflow Automation · OpenAI API · REST APIs · Supabase/PostgreSQL · Companies House · Hunter · Python · Streamlit
 
-> The public portfolio version uses safe demonstration data and disables paid external API calls.
+🌐 [**Try REACH**](https://reach-ai-market-development.streamlit.app/)
+
+🔗 [**View Project**](https://github.com/AmeerahD1/REACH-AI-Market-Development)
+
+> The public portfolio version uses demonstration data and disables paid external API calls.
 
 ### 📸 REACH in Action
 
 [![REACH AI Market Development Platform](images/Screenshot%202026-09-23%20231652.png)](https://reach-ai-market-development.streamlit.app/)
 
-*Click the image to launch the live REACH demo.*
+*Click the image to launch the REACH demo.*
 
 ---
 
-## 🎓 Tutoriffic — Multimodal AI Learning Assistant
+## ⚡ Lead Generation Workflow Automation — In Development
 
-**Problem:** Students can struggle to get personalised support when they are stuck on difficult questions, particularly when immediate tutoring help is unavailable.
+**The problem:** Lead generation can involve repetitive searching, collecting information, organising lead data and moving information manually between different tools.
 
-**Solution:** I built Tutoriffic, an AI learning assistant designed to provide personalised explanations, practice and revision support.
+**What I'm building:** As part of my Clariana internship, I am currently developing an n8n-based workflow designed to automate repetitive stages of the lead-generation process.
 
-### Key Features
+### Workflow Areas
 
-- Supports text, image and voice-based learning interactions
-- Covers 4 learning categories and 3 tutoring modes
-- Uses adaptive question difficulty
-- Tracks learner mastery and weaker areas
-- Generates targeted practice questions
-- Uses RAG to ground learning support in relevant material
-- Uses spaced-repetition revision intervals of 3, 7, 14 and 30 days
-- Maintains learner progress using SQLite
-
-**Tech:** Python · Streamlit · OpenAI API · SQLite · RAG · Multimodal AI
-
-🌐 [**Try Live Demo**](https://tutoriffic-ai-learning-assistant.streamlit.app/)
-
-🔗 [**View Source Code**](https://github.com/AmeerahD1/Tutoriffic-AI-Learning-Assistant)
-
-> The recruiter demo uses sample AI responses with paid external AI APIs disabled.
-
-### 📸 Tutoriffic in Action
-
-[![Tutoriffic AI Learning Assistant](images/Screenshot%202026-09-23%20232022.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
-
-*Click the image to launch the live Tutoriffic demo.*
-
----
-
-## 🧠 RAG AI Assistant
-
-**Problem:** General-purpose AI models may generate answers without access to an organisation's specific documents and internal knowledge.
-
-**Solution:** I developed a Retrieval-Augmented Generation (RAG) assistant that retrieves relevant information from supplied documents before generating an answer.
-
-### Key Features
-
-- Document ingestion and text chunking
-- Embedding generation
-- Semantic search
-- Vector-based retrieval
-- Context-grounded AI responses
-- Modular indexing and querying pipeline
-
-**Tech:** Python · LangChain · Chroma · Hugging Face · OpenAI API · Embeddings
-
-🔗 [**Explore My GitHub**](https://github.com/AmeerahD1)
-
----
-
-## ⚙️ AI Lead Generation Automation
-
-I am currently developing an **n8n-based lead-generation automation** designed to reduce repetitive manual prospecting and connect multiple stages of the lead-generation process into a structured workflow.
-
-### Areas Being Developed
-
+- Lead discovery and information gathering
 - Automated workflow orchestration
-- Lead research and data processing
+- Data processing and enrichment
 - API integrations
-- Structured JSON data
+- Structured lead information
 - AI-assisted processing
-- Reduction of repetitive manual work
+- Reducing repetitive manual work
 
-**Tech:** n8n · APIs · JSON · AI Automation
+**Tools:** n8n · APIs · JSON · AI Automation · Workflow Design
 
-> This work is currently in development. Company-confidential code and credentials are not included in this public portfolio.
+🚧 **Status: Currently in development**
+
+> Company-confidential workflows, credentials and proprietary information are not included in this public portfolio.
+
+---
+
+## 🐾 VetScribe — AI Veterinary Workflow Platform
+
+**The problem:** Veterinary administration extends before, during and after consultations, reducing the time veterinary teams can spend focusing on animals and their owners.
+
+**My contribution:** I am co-developing VetScribe with Clariana as a wider veterinary workflow product rather than simply an AI note-generation tool.
+
+### What I Worked On
+
+- Helped develop **4 connected veterinary workflow stages**
+- Tested the platform across **2 user roles**
+- Identified **15+ functional and UX improvements**
+- Reviewed consultation and patient workflows
+- Tested permissions and practice-management processes
+- Identified opportunities to make actions and next steps clearer for users
+- Contributed to improving usability and suitability for real veterinary workflows
+
+**Focus:** AI Product Development · Workflow Design · User Experience · Product Testing · Process Improvement
+
+🌐 [**View VetScribe**](https://vetscribe.clariana.co.uk/)
+
+> VetScribe is a commercial Clariana product. Proprietary source code is not included in this portfolio.
 
 ---
 
 ## 📊 Clariana Analytics — AI & Data Analytics Platform
 
-Contributed to improving an AI-powered analytics platform designed to help non-technical users understand and analyse organisational data more easily.
+**The problem:** Business data can be difficult for non-technical users to explore and understand without specialist analytical knowledge.
 
-### My Contribution
+**My contribution:** Helped test and improve an AI-powered analytics platform designed to make organisational data and insights more accessible to non-technical users.
+
+### Impact
 
 - Tested datasets ranging from **510 to 541,000+ records**
 - Worked across **11 functional areas**
-- Helped resolve **10+ AI, data, configuration and UX issues**
-- Improved AI grounding, data analysis, filtering, forecasting and visualisation
-- Tested Python/Pandas and SQL-based analytical workflows
-- Supported deployment through Streamlit
+- Helped identify and resolve **10+ AI, data, configuration and UX issues**
+- Tested AI grounding, filtering, forecasting and visualisation
+- Supported improvements to reliability and usability
+- Contributed to testing analytical workflows and deployment
 
-**Tech:** Python · Pandas · SQL · Streamlit · AI/LLMs · Data Analytics
+**Focus:** AI Products · Product Testing · Data Analytics · User Experience · Quality Assurance
 
 > Proprietary company source code is not published in this portfolio.
 
 ---
 
-## 🚗 Car Price Prediction Web App
+## 🧠 RAG AI Assistant — Organisational Knowledge Workflow
 
-**Problem:** Vehicle prices depend on multiple characteristics, making manual price estimation difficult and inconsistent.
+**The problem:** Finding specific information across lengthy documents can be slow and repetitive.
 
-**Solution:** I built an end-to-end machine-learning application that predicts vehicle prices from user-provided vehicle characteristics.
+**What I built:** A Retrieval-Augmented Generation (RAG) workflow that turns supplied documents into searchable knowledge and allows users to ask questions using natural language.
 
-### Key Features
+### How It Works
 
-- Data preprocessing
-- Feature engineering
-- Regression modelling
-- Model evaluation
-- Persisted trained model using Joblib
-- Interactive Streamlit prediction interface
+`Documents → Process → Retrieve Relevant Information → AI Response`
 
-**Tech:** Python · Pandas · Scikit-learn · Joblib · Streamlit
+### Key Capabilities
+
+- Document processing
+- Information chunking
+- Semantic search
+- Vector-based retrieval
+- Context-grounded AI responses
+- Natural-language information access
+
+**Tools:** RAG · LangChain · Chroma · Hugging Face · OpenAI API · Python
+
+🔗 [**Explore My GitHub**](https://github.com/AmeerahD1)
 
 ---
 
-# 🛠️ Technical Skills
+## 🎓 Tutoriffic — Multimodal AI Learning Assistant
 
-**Languages & Data:** Python · SQL · Pandas · NumPy
+**The problem:** Students can struggle to access immediate and personalised help when they are stuck on difficult questions, while general AI chatbots do not always provide the structure of ongoing tutoring.
 
-**AI & Machine Learning:** OpenAI API · RAG · LangChain · Chroma · Hugging Face · Scikit-learn · TensorFlow · NLP
+**What I built:** Tutoriffic is an AI learning assistant designed to provide personalised explanations, practice and revision support.
 
-**Automation & Integration:** n8n · REST APIs · JSON · API Integration
+### What It Does
 
-**Applications & Databases:** Streamlit · Supabase · PostgreSQL · SQLite
+- Supports text, image and voice learning interactions
+- Covers **4 learning categories**
+- Provides **3 tutoring modes**
+- Adapts question difficulty
+- Identifies weaker learning areas
+- Generates targeted practice
+- Uses RAG to support relevant learning material
+- Uses revision intervals of **3, 7, 14 and 30 days**
+- Maintains learner progress
 
-**Analytics & Visualisation:** Power BI · Tableau · Matplotlib · Excel
+**Focus:** AI Products · Personalised Learning · Workflow Design · User Experience
 
-**Development:** Git · GitHub · VS Code · Jupyter
+**Tools:** OpenAI API · RAG · Streamlit · SQLite · Python
+
+🌐 [**Try Tutoriffic**](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+
+🔗 [**View Project**](https://github.com/AmeerahD1/Tutoriffic-AI-Learning-Assistant)
+
+> The public recruiter demo uses sample AI responses with paid external AI APIs disabled.
+
+### 📸 Tutoriffic in Action
+
+[![Tutoriffic AI Learning Assistant](images/Screenshot%202026-09-23%20232022.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+
+*Click the image to launch Tutoriffic.*
+
+---
+
+# 🔄 How I Approach Automation
+
+I am particularly interested in using AI where it solves a genuine problem rather than adding AI simply because the technology is available.
+
+My approach is:
+
+**1. Identify the problem**  
+Understand where users or businesses are losing time, repeating work or struggling with an existing process.
+
+**2. Understand the workflow**  
+Look at how the process currently works and identify where the biggest friction exists.
+
+**3. Identify what should be automated**  
+Separate tasks that benefit from automation from those where human judgement remains important.
+
+**4. Build the workflow**  
+Connect AI, automation tools, APIs, data and existing systems where appropriate.
+
+**5. Test with the user in mind**  
+Check whether the solution actually makes the process easier, more reliable and more useful.
+
+**6. Improve**  
+Use testing and feedback to refine the product or workflow.
+
+---
+
+# 🛠️ Automation & Product Toolkit
+
+**Automation & Workflows:**  
+n8n · Workflow Automation · REST APIs · JSON · API Integration
+
+**AI:**  
+Generative AI · OpenAI API · RAG · LangChain · Chroma · Hugging Face
+
+**Product:**  
+Product Thinking · User Needs · Workflow Design · Product Testing · Problem Solving · Process Improvement
+
+**Data & Analytics:**  
+Python · SQL · Pandas · Excel · Power BI · Tableau
+
+**Applications & Data:**  
+Streamlit · Supabase · PostgreSQL · SQLite
+
+**Supporting Tools:**  
+Git · GitHub · VS Code · Jupyter
 
 ---
 
 # 💡 What I Focus On
 
-I am particularly interested in building technology where **AI solves a genuine user or business problem rather than being added simply for the sake of using AI**.
+I'm particularly interested in opportunities involving:
 
-My projects focus on:
+- AI and workflow automation
+- Low-code and no-code automation
+- AI-powered products
+- Business process improvement
+- Product development
+- AI implementation
+- Connecting AI with existing business workflows
+- Turning repetitive processes into connected automated workflows
 
-- Automating repetitive manual processes
-- Making complex data easier to understand
-- Building practical AI products around real user needs
-- Connecting AI models with APIs, databases and external systems
-- Turning ideas into usable applications
-- Taking products from problem identification through development, testing and deployment
+I enjoy working at the intersection of **business problems, users and technology** — understanding what needs improving first, then deciding how AI or automation can help.
 
 ---
 
 # 🎓 About Me
 
-I am a **BSc Mathematics with Data Science graduate** with experience across AI engineering, data analytics, automation and AI product development.
+I am a **BSc Mathematics with Data Science graduate** with practical experience across AI automation, workflow development, AI products, data and product testing.
 
-I enjoy taking a problem from:
+I enjoy taking a problem through:
 
-**Idea → Requirements → Development → Testing → Deployment**
+**Problem → User Need → Workflow → Solution → Testing → Improvement**
 
-while considering both the technical implementation and the experience of the person actually using the product.
+My focus is not simply on building technology, but on making sure what is built has a clear purpose and improves the experience or process it was designed for.
 
 ---
 
@@ -200,10 +260,10 @@ while considering both the technical implementation and the experience of the pe
 
 💻 **GitHub:** [github.com/AmeerahD1](https://github.com/AmeerahD1)
 
-🎯 **REACH Live Demo:** [Launch REACH](https://reach-ai-market-development.streamlit.app/)
+🎯 **REACH:** [Launch REACH](https://reach-ai-market-development.streamlit.app/)
 
-🎓 **Tutoriffic Live Demo:** [Launch Tutoriffic](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+🎓 **Tutoriffic:** [Launch Tutoriffic](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
 ---
 
-*More AI and automation projects are currently in development.*
+*More AI and automation workflows are currently in development.*
