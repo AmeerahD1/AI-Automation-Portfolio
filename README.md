@@ -95,7 +95,7 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 ### 📸 VetScribe in Action
 
-[![VetScribe AI Veterinary Workflow Platform](images/vetscribe.png)](https://vetscribe.clariana.co.uk/)
+[![VetScribe AI Veterinary Workflow Platform](images/VetScribe.png)](https://vetscribe.clariana.co.uk/)
 
 *Click the image to visit VetScribe.*
 
@@ -124,7 +124,7 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 ### 📸 Clariana Analytics in Action
 
-[![Clariana Analytics AI Business Intelligence Platform](images/clariana-analytics.png)](https://clariana-analytics-95j63uwbydwyojdyv8m8tq.streamlit.app/)
+[![Clariana Analytics AI Business Intelligence Platform](images/Clariana-Analytics.png)](https://clariana-analytics-95j63uwbydwyojdyv8m8tq.streamlit.app/)
 
 *Click the image to visit Clariana Analytics.*
 
@@ -185,7 +185,7 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 ### 📸 Tutoriffic in Action
 
-[![Tutoriffic AI Learning Assistant](images/tutoriffic.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+[![Tutoriffic AI Learning Assistant](images/Tutoriffic.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
 *Click the image to launch Tutoriffic.*
 
