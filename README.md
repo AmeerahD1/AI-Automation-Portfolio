@@ -41,7 +41,7 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 ### 📸 REACH in Action
 
-[![REACH AI Market Development Platform](images/Screenshot%202026-09-23%20231652.png)](https://reach-ai-market-development.streamlit.app/)
+[![REACH AI Market Development Platform](images/REACH.png)](https://reach-ai-market-development.streamlit.app/)
 
 *Click the image to launch the REACH demo.*
 
