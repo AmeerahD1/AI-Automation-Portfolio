@@ -89,9 +89,15 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 **Focus:** AI Product Development · Workflow Design · User Experience · Product Testing · Process Improvement
 
-🌐 [**View VetScribe**](https://vetscribe.clariana.co.uk/)
+🌐 [**View VetScribe Live**](https://vetscribe.clariana.co.uk/)
 
 > VetScribe is a commercial Clariana product. Proprietary source code is not included in this portfolio.
+
+### 📸 VetScribe in Action
+
+[![VetScribe AI Veterinary Workflow Platform](images/vetscribe.png)](https://vetscribe.clariana.co.uk/)
+
+*Click the image to visit VetScribe.*
 
 ---
 
@@ -112,7 +118,15 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 **Focus:** AI Products · Product Testing · Data Analytics · User Experience · Quality Assurance
 
-> Proprietary company source code is not published in this portfolio.
+🌐 [**View Clariana Analytics Live**](https://clariana-analytics-95j63uwbydwyojdyv8m8tq.streamlit.app/)
+
+> Clariana Analytics is a commercial Clariana product. Proprietary company source code is not included in this portfolio.
+
+### 📸 Clariana Analytics in Action
+
+[![Clariana Analytics AI Business Intelligence Platform](images/clariana-analytics.png)](https://clariana-analytics-95j63uwbydwyojdyv8m8tq.streamlit.app/)
+
+*Click the image to visit Clariana Analytics.*
 
 ---
 
@@ -261,6 +275,10 @@ My focus is not simply on building technology, but on making sure what is built 
 💻 **GitHub:** [github.com/AmeerahD1](https://github.com/AmeerahD1)
 
 🎯 **REACH:** [Launch REACH](https://reach-ai-market-development.streamlit.app/)
+
+🐾 **VetScribe:** [Visit VetScribe](https://vetscribe.clariana.co.uk/)
+
+📊 **Clariana Analytics:** [Launch Clariana Analytics](https://clariana-analytics-95j63uwbydwyojdyv8m8tq.streamlit.app/)
 
 🎓 **Tutoriffic:** [Launch Tutoriffic](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
