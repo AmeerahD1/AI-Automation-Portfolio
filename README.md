@@ -185,7 +185,7 @@ My work focuses on identifying repetitive, fragmented or inefficient processes a
 
 ### 📸 Tutoriffic in Action
 
-[![Tutoriffic AI Learning Assistant](images/Screenshot%202026-09-23%20232022.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
+[![Tutoriffic AI Learning Assistant](images/tutoriffic.png)](https://tutoriffic-ai-learning-assistant.streamlit.app/)
 
 *Click the image to launch Tutoriffic.*
 
